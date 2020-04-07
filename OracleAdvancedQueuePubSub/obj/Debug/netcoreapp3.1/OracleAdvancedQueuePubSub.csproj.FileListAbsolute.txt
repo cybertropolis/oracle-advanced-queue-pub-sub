@@ -1,0 +1,7 @@
+C:\GitHub\cybertropolis\oracle-advanced-queue-pub-sub\OracleAdvancedQueuePubSub\bin\Debug\netcoreapp3.1\OracleAdvancedQueuePubSub.exe
+C:\GitHub\cybertropolis\oracle-advanced-queue-pub-sub\OracleAdvancedQueuePubSub\obj\Debug\netcoreapp3.1\OracleAdvancedQueuePubSub.csprojAssemblyReference.cache
+C:\GitHub\cybertropolis\oracle-advanced-queue-pub-sub\OracleAdvancedQueuePubSub\obj\Debug\netcoreapp3.1\OracleAdvancedQueuePubSub.AssemblyInfoInputs.cache
+C:\GitHub\cybertropolis\oracle-advanced-queue-pub-sub\OracleAdvancedQueuePubSub\obj\Debug\netcoreapp3.1\OracleAdvancedQueuePubSub.AssemblyInfo.cs
+C:\GitHub\cybertropolis\oracle-advanced-queue-pub-sub\OracleAdvancedQueuePubSub\bin\Debug\netcoreapp3.1\Oracle.ManagedDataAccess.dll
+C:\GitHub\cybertropolis\oracle-advanced-queue-pub-sub\OracleAdvancedQueuePubSub\obj\Debug\netcoreapp3.1\OracleAdvancedQueuePubSub.csproj.CopyComplete
+C:\GitHub\cybertropolis\oracle-advanced-queue-pub-sub\OracleAdvancedQueuePubSub\bin\Debug\netcoreapp3.1\Oracle.DataAccess.dll
